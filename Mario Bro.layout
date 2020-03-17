@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Color.h" open="1" top="0" tabpos="8">
+		<Cursor position="656" topLine="3" />
+	</File>
+	<File name="SDL_Plotter.h" open="1" top="0" tabpos="9">
+		<Cursor position="6182" topLine="215" />
+	</File>
+	<File name="Tool.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="367" topLine="7" />
+	</File>
+	<File name="Tool.h" open="1" top="0" tabpos="7">
+		<Cursor position="470" topLine="5" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="661" topLine="37" />
+	</File>
+	<File name="platfom.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="3717" topLine="12" />
+	</File>
+	<File name="platform.h" open="1" top="0" tabpos="5">
+		<Cursor position="2215" topLine="84" />
+	</File>
+	<File name="player.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="400" topLine="11" />
+	</File>
+	<File name="player.h" open="1" top="0" tabpos="3">
+		<Cursor position="3378" topLine="112" />
+	</File>
+</CodeBlocks_layout_file>
